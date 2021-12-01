@@ -3,8 +3,8 @@
 The buttons have to be switched on before the app starts working.
  Potentiometer acts as temperature sensor. It gives signal which is converted by ADC and used to make a PWM signal pf corresponding duty cycle, as seen in the oscilloscope. 
  As potentiometer is varied, message containing detected temperature is shown in serial monitor.
-|score|status|Cppcheck|Compile|
-|:--: | :--: |  :--:  | :--:  |
+|Code Score|Code Status|Cppcheck|Compile|
+|  :--:    |   :--:    |  :--:  | :--:  |
 |<img src="https://www.code-inspector.com/project/28622/score/svg" />|<img src="https://www.code-inspector.com/project/28622/status/svg" />|[![Cppcheck](https://github.com/PavanKummarikuntla/M2-Embedded_Hotseat/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/PavanKummarikuntla/M2-Embedded_Hotseat/actions/workflows/CodeQuality.yml)|[![Compile-Linux](https://github.com/PavanKummarikuntla/M2-Embedded_Hotseat/actions/workflows/Compile.yml/badge.svg)](https://github.com/PavanKummarikuntla/M2-Embedded_Hotseat/actions/workflows/Compile.yml)|
 
 ## Contributors List and Summary
